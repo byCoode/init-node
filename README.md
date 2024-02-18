@@ -21,7 +21,7 @@ root/
 │  ├─ main.js
 ```
 
-Then update the ```main``` field in the [package.json](package.json) with your entry file
+Finally update the ```main``` field in the [package.json](package.json) with your entry file
 
 ```json
 {
