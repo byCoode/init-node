@@ -1,0 +1,26 @@
+{
+  "name": "@bycoode/init-node",
+  "version": "0.1.0",
+  "description": "The byCoode's Node.js Starter Pack",
+  "private": true,
+  "engines": {
+    "node": "20.11.0",
+    "pnpm": "8.15.3"
+  },
+  "packageManager": "pnpm@8.15.3+sha256.fc4a49bd609550a41e14d20efbce802a4b892aa4cac877322de2f0924f122991",
+  "main": "",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byCoode/init-node"
+  },
+  "author": "Roberto Cocco <co@robertococco.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "@bycoode/eslint-config-byc": "0.1.7",
+    "@types/node": "^20.11.0",
+    "jest": "^29.7.0",
+    "jsdoc": "^4.0.2"
+  }
+}
