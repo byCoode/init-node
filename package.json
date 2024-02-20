@@ -18,7 +18,7 @@
   "author": "Roberto Cocco <co@robertococco.me>",
   "license": "MIT",
   "devDependencies": {
-    "@bycoode/eslint-config-byc": "0.1.7",
+    "@bycoode/eslint-config-byc": "0.2.5",
     "@types/node": "^20.11.0",
     "jest": "^29.7.0",
     "jsdoc": "^4.0.2"
